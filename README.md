@@ -5,6 +5,9 @@ before going further make sure that whatever happens with your device it's your 
 all the future device i'll add support but for now only mi11 ultra is available
 for check device availability always for example check branch name mi11ultra branch will be used for mi11ultra device
 
+note :- whatever happens with your device it's upto you i'm not responsible for any kind of damage happen to your device either its because of buggy xiaomi rom like poco devices and many xiaomi device. understand i'm not making rom i'm just converting it from existing rom. so it's your responsibility
+
+
 steps to use it
 
 1. put the downloaded recovery rom on input folder. (make sure only one rom zip present at a time)
@@ -12,6 +15,5 @@ steps to use it
 3. after all the process you'll get the rom in output folder.
 4. after flashing or using rom use "Windows - Cleanup Rom.bat" or use "Linux - Cleanup Rom.sh depending on your os."
 
-note :- whatever happens with your device it's upto you i'm not responsible for any kind of damage happen to your device either its because of buggy xiaomi rom like poco devices and many xiaomi device. understand i'm not making rom i'm just converting it from existing rom. so it's your responsibility
 
 P.S. - It's only made to convert miui recovery rom not fastboot rom or any aosp rom
