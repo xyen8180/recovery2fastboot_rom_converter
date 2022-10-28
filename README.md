@@ -8,8 +8,8 @@ for check device availability always for example check branch name mi11ultra bra
 steps to use it
 
 1. put the downloaded recovery rom on input folder. (make sure only one rom zip present at a time)
-2. for windows use "Make Rom - windows.bat" and for linux use "Make Rom - linux.sh"
+2. for windows use "Windows - Make Rom.bat" and for linux use "Linux - Make Rom.sh"
 3. after all the process you'll get the rom in output folder.
-4. after flashing or using rom use "Cleanup Rom - window.bat" and for use "Cleanup Rom - linux.sh"
+4. after flashing or using rom use "Windows - Cleanup Rom.bat" or use "Linux - Cleanup Rom.sh depending on your os."
 
 note :- whatever happens with your device it's upto you i'm not responsible for any kind of damage happen to your device either its because of buggy xiaomi rom like poco devices and many xiaomi device. understand i'm not making rom i'm just converting it from existing rom. so it's your responsibility
