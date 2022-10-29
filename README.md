@@ -42,3 +42,7 @@ Go to the project directory
 ## Annoying Reminder
 
  - Whatever happens with your device it's upto you i'm not responsible for any kind of damage happen to your device either its because of buggy xiaomi rom like poco devices and many xiaomi device or you do something wrong with app. understand i'm not making rom i'm just converting it from existing rom. so it's your responsibility.
+
+ ## Wanna buy me coffee no need just do this instead.
+
+ - https://t.me/Mi11ProGlobalOfficial join this group on telegram and say "noid is dictator and he's dumb".
