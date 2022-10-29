@@ -5,6 +5,10 @@
 
 note :- whatever happens with your device it's upto you i'm not responsible for any kind of damage happen to your device either its because of buggy xiaomi rom like poco devices and many xiaomi device. understand i'm not making rom i'm just converting it from existing rom. so it's your responsibility
 
+requirements 
+-for linux nothing
+-for windows linux subsystem must be enabled with ubuntu/linux installed
+(for windows 11 wsl kernel 2 update is required)
 
 steps to use it
 
