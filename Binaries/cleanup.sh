@@ -1,2 +1,0 @@
-cd ..
-rm -r ./output/*
